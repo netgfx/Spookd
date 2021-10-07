@@ -2,6 +2,11 @@
 
 A Framer prototype game with Supabase as backend
 
+<br>
+
+![Framer view](framer.png)
+
+
 # Prototype Views (Framer)
 
 ## Registration
@@ -21,6 +26,10 @@ A Framer prototype game with Supabase as backend
 - Random target block modal
 - Win modal
 - Loss modal
+
+---
+### Mindmap
+![Views](views.png)
 
 ---
 
@@ -57,3 +66,8 @@ A Framer prototype game with Supabase as backend
 - Both players are notified via the subscription for the winner
   - The loss modal is shown
   - The win modal is shown
+  
+---
+### Mindmap
+
+![Supabase](api.png)
