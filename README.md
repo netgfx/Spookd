@@ -107,3 +107,14 @@ Gameplay instructions:
 ### Mindmap
 
 ![Supabase](api.png)
+
+## Clean up
+- Right now clients are responsible of cleaning up idle games that their `last_heartbeat` is over 1 hour.
+- Games also get removed after a winner has been declared but users refreshing the page or navigating away can leave the game in an idle state. In the future a dedicated server or Supabase function with a cron job could be responsible for handling these leftovers.
+---
+## Team
+```
+Michael Dobekidis
+Twitter: @netgfx
+Github: https://github.com/netgfx
+```
