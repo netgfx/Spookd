@@ -19,6 +19,10 @@ This game features:
 https://user-images.githubusercontent.com/864248/136512258-004e1618-d975-4f23-bbeb-67a552dccd93.mp4
 
 
+### `Gameplay instructions`:
+- Pick an avatar
+- Make or Join a game (put 1 player to play a solo challenge)
+- Press Start to indicate that you are ready to play
 
 ## Gameplay link: https://framer.com/share/Framer-Supabase-multiplayer--1rmYcBAnSk0PVvXGrnlc/e0t612XvT?fullscreen=1
 <br>
