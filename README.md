@@ -14,6 +14,8 @@ This game features:
 - Joining game
 - Playing and receiving gameplay events (player ready, win, loss, shared game data)
 
+
+## Gameplay link: https://framer.com/share/Framer-Supabase-multiplayer--1rmYcBAnSk0PVvXGrnlc/e0t612XvT?fullscreen=1
 <br>
 
 ![Framer view](framer.png)
