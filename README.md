@@ -15,8 +15,16 @@ This game features:
 - Playing and receiving gameplay events (player ready, win, loss, shared game data)
 
 
+
+https://user-images.githubusercontent.com/864248/136512258-004e1618-d975-4f23-bbeb-67a552dccd93.mp4
+
+
+
 ## Gameplay link: https://framer.com/share/Framer-Supabase-multiplayer--1rmYcBAnSk0PVvXGrnlc/e0t612XvT?fullscreen=1
 <br>
+
+
+# Documentation
 
 ![Framer view](framer.png)
 
