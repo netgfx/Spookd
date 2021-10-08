@@ -28,6 +28,15 @@ https://user-images.githubusercontent.com/864248/136512258-004e1618-d975-4f23-bb
 
 ![Framer view](framer.png)
 
+---
+### The random blocks (PGB - Procedurally Generated Blocks) are smart components with 3 shapes inside and variable colors/shapes
+
+
+![PGB](PGB.png)
+
+
+![PGB Variables](PGB_Variables.png)
+
 
 # Prototype Views (Framer)
 
