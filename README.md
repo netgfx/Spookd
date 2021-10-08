@@ -2,6 +2,17 @@
 
 A Framer prototype game with Supabase as backend
 
+This is a proof of concept project, to showcase how can a multiplayer game be created via any UI and a Supabase db.
+
+Using the DB to store data and the realtime communication (through websockets) to broadcast events.
+
+This game features:
+
+- Creating user accounts
+- Creating game lobby
+- Joining game
+- Playing and receiving gameplay events (player ready, win, loss, shared game data)
+
 <br>
 
 ![Framer view](framer.png)
