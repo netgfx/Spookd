@@ -28,6 +28,8 @@ Gameplay instructions:
 ## Gameplay link: https://framer.com/share/Framer-Supabase-multiplayer--1rmYcBAnSk0PVvXGrnlc/e0t612XvT?fullscreen=1
 <br>
 
+## Vocal brief description of the project: https://www.youtube.com/watch?v=8SsWL3unwGI
+
 
 # Documentation
 
